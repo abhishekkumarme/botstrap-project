@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row{
+    background: repeating-linear-gradient(60deg,#40fff9, #f10de5 ,#3bdbff);;
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 37rem;
+}
+img{
+    width: 130%;
+    height: 35rem;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.inp{
+    height: 50px;
+    width: 60%;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 15px 15px 20px 10px rgba(0, 0, 0, 0.35);
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+}
+.btn1{
+    width: 20%;
+    height: 3rem;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 8px 8px 10px; 
+    background: linear-gradient(45deg, rgb(131, 131, 131), white );
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn1:hover{
+    background: repeating-linear-gradient(60deg, rgb(241, 237, 237), aqua);
+}
+p{
+    font-size: 2rem;   
+    font-weight: 600;
+}
+.fa-brands{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+.fa-facebook:hover{
+   color: blue;
+}
+.fa-linkedin:hover{
+    color: rgb(41, 91, 216);
+}
+.fa-github:hover{
+    color: black;
+}
+.fa-instagram:hover{
+    color: rgb(239, 12, 77);
+}
+
+
+
+
+
